@@ -1,4 +1,18 @@
 {
  "about": "RimRunnerWisconsin 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "6221aa20-7499-4f28-853d-96c82ab549c4": {
+   "awayMp": "8d6d0c58-f092-490e-a63f-c3a2d88fd037",
+   "awayScore": 63,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "wi26-0003",
+   "homeMp": "4e141b83-f584-499a-a0a3-e6106a1ab598",
+   "homeScore": 54,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  }
+ }
 }
