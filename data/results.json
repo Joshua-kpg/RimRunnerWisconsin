@@ -13,6 +13,21 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "7aee20dc-093e-4ba7-9aae-94390659a660": {
+   "awayMp": "f0779dd8-c2c7-4fd9-b398-0938a9ef56a6",
+   "awayScore": 62,
+   "date": "2026-11-17",
+   "forfeit": false,
+   "gameId": "wi26-x001",
+   "gameType": "conference",
+   "homeMp": "2a03d0f3-fcc4-46b5-9977-5a8286126d20",
+   "homeScore": 71,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   }
  }
 }
