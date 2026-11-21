@@ -1,6 +1,18 @@
 {
  "about": "RimRunnerWisconsin 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "3181d62a-cea8-423c-b7a8-4f8df58d246b": {
+   "awayMp": "ce188609-d5c0-4791-a980-3ac10b7964ee",
+   "awayScore": 49,
+   "date": "2026-11-20",
+   "forfeit": false,
+   "homeMp": "8d6d0c58-f092-490e-a63f-c3a2d88fd037",
+   "homeScore": 55,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
   "6221aa20-7499-4f28-853d-96c82ab549c4": {
    "awayMp": "8d6d0c58-f092-490e-a63f-c3a2d88fd037",
    "awayScore": 63,
@@ -13,6 +25,21 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "7ac44479-97b2-44f0-a534-2cc730e7f757": {
+   "awayMp": "93baae16-7122-46a6-9fce-d925c1535c0d",
+   "awayScore": 44,
+   "date": "2026-11-20",
+   "forfeit": false,
+   "gameId": "wi26-x002",
+   "gameType": "conference",
+   "homeMp": "2a03d0f3-fcc4-46b5-9977-5a8286126d20",
+   "homeScore": 59,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "7aee20dc-093e-4ba7-9aae-94390659a660": {
    "awayMp": "f0779dd8-c2c7-4fd9-b398-0938a9ef56a6",
