@@ -14,6 +14,18 @@
    "state": "applied",
    "winner": "away"
   },
+  "00cb5d75-3e2a-436f-8e64-bb0fba46f374": {
+   "awayMp": "5d19172b-b4db-44cc-93ba-ed573c338696",
+   "awayScore": 52,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "homeMp": "29d7fd4d-4068-4916-8433-7dd8bcd9f5de",
+   "homeScore": 55,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
   "00fa7c54-81ba-411f-b3de-894e6020a262": {
    "awayMp": "f6917cd9-883a-4e6d-acb3-fd87153b91f7",
    "awayScore": 64,
@@ -63,6 +75,19 @@
    "gameId": "wi26-0017",
    "homeMp": "c4668fa2-ea24-4f7f-9c16-2860b2b2fc9c",
    "homeScore": 74,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "11f89bfe-45c6-485c-a087-b0ca57990886": {
+   "awayMp": "836e8ae9-7be1-42f8-9a6d-824c1e233636",
+   "awayScore": 64,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "wi26-0074",
+   "homeMp": "3aff4933-d32f-4310-a3f8-10a8e4a365ad",
+   "homeScore": 80,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -649,6 +674,19 @@
    "verified": true,
    "winner": "home"
   },
+  "aa49f71d-f726-4208-a197-2a3c2a1c7eb3": {
+   "awayMp": "bf54429c-2c30-419e-9bf0-14abd64cdd29",
+   "awayScore": 67,
+   "date": "2026-11-25",
+   "forfeit": false,
+   "gameId": "wi26-0076",
+   "homeMp": "25e35572-207f-4bfb-9e2d-5848cae32c44",
+   "homeScore": 66,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "abeda6b7-fe47-4217-93e9-3b72af3e79f8": {
    "awayMp": "a14fa834-23fe-4376-b195-f2a8be71ab90",
    "awayScore": 100,
@@ -760,6 +798,19 @@
    "gameId": "wi26-0036",
    "homeMp": "4b5753fd-b34f-4c4c-86de-b9ee39fe7976",
    "homeScore": 46,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "c8899151-515c-43f0-8e10-e6031435f129": {
+   "awayMp": "51da4784-1911-47ec-9be9-c834e0af4232",
+   "awayScore": 47,
+   "date": "2026-11-24",
+   "forfeit": false,
+   "gameId": "wi26-0037",
+   "homeMp": "44e045cc-c49e-40eb-92ab-1db6ca33f8b2",
+   "homeScore": 42,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
