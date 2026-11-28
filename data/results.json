@@ -132,6 +132,36 @@
    "state": "applied",
    "winner": "home"
   },
+  "1b0bf759-031d-4768-ba41-6625d5c8daf2": {
+   "awayMp": "cdd7c49a-7943-4cfc-b7c9-41947b0f70f5",
+   "awayScore": 49,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x012",
+   "gameType": "non-conference",
+   "homeMp": "cedd1aed-02c3-4d7c-ba5c-524b35f13b51",
+   "homeScore": 75,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
+  "1b54e654-0844-4c40-9cf6-b14d6b5f208d": {
+   "awayMp": "cedd1aed-02c3-4d7c-ba5c-524b35f13b51",
+   "awayScore": 75,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x013",
+   "gameType": "non-conference",
+   "homeMp": "475a6aeb-df55-4c57-8dd1-1ddef459d761",
+   "homeScore": 49,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "1eb8b4ec-0154-4850-ac12-54839c90e6c8": {
    "awayMp": "fe642917-6016-4e13-bd59-7ede52d81bce",
    "awayScore": 73,
@@ -141,6 +171,21 @@
    "gameType": "non-conference",
    "homeMp": "bfa02919-0b5e-4cd5-8ec7-6c066520af4b",
    "homeScore": 46,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
+  "21e9ad89-c6be-4d94-9e5d-84b5d24fa89f": {
+   "awayMp": "fc0a1c11-d7b7-4723-b731-c8b3df687598",
+   "awayScore": 52,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x014",
+   "gameType": "non-conference",
+   "homeMp": "3f9896e6-4cd4-4ed2-8ea0-33cc374d6a65",
+   "homeScore": 42,
    "neutral": false,
    "source": "scores-page",
    "state": "applied",
@@ -184,6 +229,19 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "home"
+  },
+  "2b30b5d5-38d7-4ab3-a997-f97f03171e83": {
+   "awayMp": "87f6b043-82ed-4eb9-aafd-d3dcab48c48d",
+   "awayScore": 57,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0081",
+   "homeMp": "eb53dacc-9bcc-4cf7-b1ec-572e77756e75",
+   "homeScore": 45,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
   },
   "2ddce98c-cfa3-4a4a-a189-22b87c864daa": {
    "awayMp": "5128fe3f-e64e-47b7-8a6a-230301aee169",
@@ -234,6 +292,19 @@
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
+   "winner": "home"
+  },
+  "380d3d61-0263-4e0a-90f0-1dddb74fa021": {
+   "awayMp": "bce0cebc-91a4-4fda-beb7-7bc6a1e24c83",
+   "awayScore": 35,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0079",
+   "homeMp": "50cd329b-8a4c-4862-8bda-7c160821e187",
+   "homeScore": 85,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
    "winner": "home"
   },
   "391f6dda-6a51-45ef-b65f-f807523d2cf7": {
@@ -366,6 +437,19 @@
    "state": "unlisted",
    "winner": "away"
   },
+  "68396cbb-2b77-47e9-8f0f-1c51bf704059": {
+   "awayMp": "c4668fa2-ea24-4f7f-9c16-2860b2b2fc9c",
+   "awayScore": 58,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0084",
+   "homeMp": "913cf454-1ca9-4ca8-baf0-ef9cd4d92190",
+   "homeScore": 69,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "684cd103-ce62-4f0a-b22f-fcf0d644d00c": {
    "awayMp": "1672fa44-d984-4692-80ed-9ddec1d91c00",
    "awayScore": 78,
@@ -390,6 +474,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "away"
+  },
+  "6e663167-33b2-43f0-bd2f-9e3eb91f8633": {
+   "awayMp": "5d22598b-f51f-402c-8445-677928cdf347",
+   "awayScore": 71,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x015",
+   "gameType": "non-conference",
+   "homeMp": "9258d803-58e4-44ac-b5d5-2bfd346a85b1",
+   "homeScore": 56,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "away"
   },
   "6f12223a-2f72-47c4-9765-dc69db23526e": {
@@ -417,6 +516,21 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "home"
+  },
+  "719b8810-82ac-4520-92b8-e74e7f4fa9d6": {
+   "awayMp": "6481f559-4c03-4fb9-b63c-d8bca99204ee",
+   "awayScore": 54,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x016",
+   "gameType": "non-conference",
+   "homeMp": "475a6aeb-df55-4c57-8dd1-1ddef459d761",
+   "homeScore": 44,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
   },
   "72eafc1d-57b3-4a58-9172-9b1573db141d": {
    "awayMp": "c209b850-484d-4c6e-93c8-f9cb169655ff",
@@ -512,6 +626,21 @@
    "state": "unlisted",
    "winner": "away"
   },
+  "7d8db8b8-1fc7-41d2-acfa-e69d707649fc": {
+   "awayMp": "754a5192-3046-4895-8cb1-fa13c70252c7",
+   "awayScore": 74,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-x017",
+   "gameType": "non-conference",
+   "homeMp": "b359a8d6-718b-418b-9966-e18c167bfbc4",
+   "homeScore": 71,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "809bb894-67da-4483-ae9b-968611ab5cde": {
    "awayMp": "b7e6eab1-a4d6-4ffb-8b20-0702c4d40bab",
    "awayScore": 62,
@@ -520,6 +649,19 @@
    "gameId": "wi26-0068",
    "homeMp": "610e6f41-73e7-46e0-a91a-d396dc93c849",
    "homeScore": 59,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "8598d510-3cce-4d08-9454-60e7763e2d65": {
+   "awayMp": "44e045cc-c49e-40eb-92ab-1db6ca33f8b2",
+   "awayScore": 69,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0082",
+   "homeMp": "1eed6274-b021-424c-9f73-0aed19c9c599",
+   "homeScore": 33,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -590,6 +732,32 @@
    "state": "applied",
    "winner": "away"
   },
+  "95221176-d77b-47d7-a1e8-b1d192172ad3": {
+   "awayMp": "69112417-f07d-4045-870b-7d949bf02ce0",
+   "awayScore": 56,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0085",
+   "homeMp": "fcbf0af1-9686-4db4-b121-801c4e894a41",
+   "homeScore": 58,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "967d4d49-6481-412c-8855-451377bf6aef": {
+   "awayMp": "42ba3599-0e6c-46d8-aeea-3834de65ee2f",
+   "awayScore": 89,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0078",
+   "homeMp": "5ed32d49-ca96-404f-b71c-672c175d248d",
+   "homeScore": 50,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "99c00a7c-4016-4b4c-8c8a-f6b1e35cfb3a": {
    "awayMp": "ffac90b2-9860-4fa3-93c7-bfd297fa1949",
    "awayScore": 65,
@@ -604,6 +772,19 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "9c87b94f-ccc8-41f5-8408-be5105bf13a6": {
+   "awayMp": "a37d69a1-9df3-4b3c-8900-119a7d2003a7",
+   "awayScore": 60,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0077",
+   "homeMp": "c392fc95-4f32-4dcb-ab99-2daf5ec77516",
+   "homeScore": 85,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   },
   "9d08eff2-aa85-43a6-a42f-07e9bd0f70dc": {
    "awayMp": "f22b6951-dc18-4bcf-b97c-a0696172c237",
@@ -989,6 +1170,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "f159da11-0f66-4c72-82e8-acecb5d79e0b": {
+   "awayMp": "9dd08a71-7fdb-48dc-a42d-cea776c13878",
+   "awayScore": 87,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0080",
+   "homeMp": "7af2c40c-951e-48c1-9a2b-12eee53e714a",
+   "homeScore": 80,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "f7362cac-d0e9-44c8-a8ca-6d1ff30e2567": {
    "awayMp": "8a4b6066-bf3e-4bec-a26c-0a06ecfdf7f6",
    "awayScore": 102,
@@ -1003,6 +1197,19 @@
    "state": "applied",
    "verified": true,
    "winner": "away"
+  },
+  "f93758c2-47e6-444d-ac9a-e03438be36f1": {
+   "awayMp": "0c67c8bd-b965-4abc-baf3-1a36c190f822",
+   "awayScore": 16,
+   "date": "2026-11-27",
+   "forfeit": false,
+   "gameId": "wi26-0086",
+   "homeMp": "a43798bd-ad24-40b8-b560-c905b353d37f",
+   "homeScore": 91,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   },
   "fad9aeb3-f33a-4902-ad9f-df4cb655f39d": {
    "awayMp": "2a03d0f3-fcc4-46b5-9977-5a8286126d20",
